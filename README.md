@@ -14,9 +14,8 @@
 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=konradziel&hide=Jupyter Notebook,javascript,css,scss,html&show_icons=true&theme=tokyonight&title_color=7a4381&text_color=7a4381&locale=en&layout=compact" alt="konradziel" />
+  <img src="https://github-readme-stats-konradziels-projects.vercel.app/api/top-langs?username=konradziel&hide=javascript,jupyter%20notebook,css,scss,html&show_icons=true&theme=tokyonight&title_color=7a4381&text_color=7a4381&locale=en&layout=compact" alt="konradziel" />
   </div>
-  
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=konradziel&show_icons=true&theme=tokyonight&title_color=7a4381&text_color=7a4381&locale=en" alt="konradziel" /></p>

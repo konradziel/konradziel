@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=konradziel&label=Profile%20views&color=7a4381&style=flat" alt="konradziel" /> </p>
 
 - 🌱 I’m currently learning **c++**
-- Every repository that starts with CC is related to College Classes
+- 📚 Every repository that starts with CC is related to College Classes
 
 <p align="left">
 </p>
